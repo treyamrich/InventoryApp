@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QuickFrame
+comment1.params=
+comment1.target=QuickFrame()
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=javax.swing.JFrame\ getQuickFrame()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=hardTable\ snTable\ inTable\ outTable\ descTable
+comment5.target=void\ updateTables(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6

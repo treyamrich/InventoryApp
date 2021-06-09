@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Sql
+comment1.params=
+comment1.target=java.sql.Connection\ connect()
+comment2.params=
+comment2.target=java.util.ArrayList\ selectEverything()
+comment3.params=field\ condition
+comment3.target=java.util.ArrayList\ filterQuery(java.lang.String,\ java.lang.String)
+comment4.params=year
+comment4.target=java.util.ArrayList\ filterByYearQuery(java.lang.String)
+comment5.params=hardware_type\ serial_num\ time_in\ time_out\ description
+comment5.target=void\ insertQuery(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=serialNum
+comment6.target=void\ deleteQuery(java.lang.String)
+comment7.params=
+comment7.target=void\ alterTableQuery()
+numComments=8
